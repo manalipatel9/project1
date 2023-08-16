@@ -8,3 +8,4 @@
       3.) 'COVID-19_Cases__Tests__and_Deaths_by_ZIP_Code.csv', where covid data for zip codes across the Chicago area are stored
   c.) One csv file that lists the census variables that we considered: 'project 1 census variables .csv'
   d.) Our final powerpoint presentation
+  e.) a config file without the api key added
