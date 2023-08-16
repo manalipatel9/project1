@@ -9,3 +9,4 @@
   c.) One csv file that lists the census variables that we considered: 'project 1 census variables .csv'
   d.) Our final powerpoint presentation
   e.) a config file without the api key added
+Please note that there are discriptions in the speaker notes regarding our analysis and observations in the powerpoint. AAdditionally, we have annotated the code throughout with the rationale behind our code.
